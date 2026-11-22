@@ -818,7 +818,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itertools-0.14.0/src/lib.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/23cc597488f119a2d54b0ffd4a0d7d1a50651b76/chunk-001.nq.gz",
+      "dep": "dep/23cc597488f119a2d54b0ffd4a0d7d1a50651b76.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
