@@ -1,0 +1,11 @@
+{
+  "org": "metrics-rs",
+  "repo": "metrics",
+  "versions": [
+    {
+      "commit": "23cc597488f119a2d54b0ffd4a0d7d1a50651b76",
+      "tag": "metrics-v0.24.6",
+      "parsed_at": "2026-11-22T15:48:15.167154+00:00"
+    }
+  ]
+}
